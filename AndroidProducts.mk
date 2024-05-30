@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_evert.mk
+    $(LOCAL_DIR)/twrp_evert.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_evert-user \
-    omni_evert-userdebug \
-    omni_evert-eng
+    twrp_evert-user \
+    twrp_evert-userdebug \
+    twrp_evert-eng
