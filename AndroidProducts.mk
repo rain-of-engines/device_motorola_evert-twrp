@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_evert.mk
+    $(LOCAL_DIR)/twrp_beckham.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_evert-user \
-    twrp_evert-userdebug \
-    twrp_evert-eng
+    twrp_beckham-user \
+    twrp_beckham-userdebug \
+    twrp_beckham-eng

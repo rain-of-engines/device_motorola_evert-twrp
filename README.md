@@ -1,4 +1,4 @@
-# Android device tree for motorola moto g(6) plus (evert)
+# Android device tree for motorola moto z(3) play (beckham)
 
 ```
 #

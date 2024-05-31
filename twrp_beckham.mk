@@ -12,11 +12,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common TWRP stuff.
 $(call inherit-product, vendor/twrp/config/common.mk)
 
-# Inherit from evert device
-$(call inherit-product, device/motorola/evert/device.mk)
+# Inherit from beckham device
+$(call inherit-product, device/motorola/beckham/device.mk)
 
-PRODUCT_DEVICE := evert
-PRODUCT_NAME := twrp_evert
+PRODUCT_DEVICE := beckham
+PRODUCT_NAME := twrp_beckham
 PRODUCT_BRAND := Motorola
-PRODUCT_MODEL := Moto G6 Plus
+PRODUCT_MODEL := Moto Z3 Play
 PRODUCT_MANUFACTURER := Motorola
